@@ -4,6 +4,12 @@
 - Python
 
 ## Installation
+Clone the repository:
+```bash
+git clone https://github.com/RchrdAriza/TerminalMarkdown
+# Enter the folder
+cd TerminalMarkdown
+```
 
 Install the requirements using `pip install -r requirements.txt` or simply `pip install textual`.
 
